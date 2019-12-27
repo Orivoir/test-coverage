@@ -6,7 +6,6 @@
   "scripts": {
     "test": "mocha"
     ,"coverage": "nyc npm test"
-    ,"report": ""
   },
   "repository": {
     "type": "git",
